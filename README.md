@@ -1,1 +1,2 @@
 # Gigaland
+# strapiGigaland
